@@ -1,1 +1,8 @@
 
+mongod --dbpath=C:\data
+
+sails lift
+
+mongo
+show dbs
+use sochara
